@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\bin\Debug\KatVozila.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\bin\Debug\KatVozila.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\bin\Debug\KatVozila.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\obj\Debug\KatVozila.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\obj\Debug\KatVozila.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\obj\Debug\KatVozila.Form1.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\obj\Debug\KatVozila.Properties.Resources.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\obj\Debug\KatVozila.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\obj\Debug\KatVozila.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\obj\Debug\KatVozila.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\KatVozila\KatVozila\obj\Debug\KatVozila.pdb
